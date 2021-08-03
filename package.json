@@ -1,0 +1,11 @@
+{
+  "name": "hi_server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "artur",
+  "license": "ISC"
+}
